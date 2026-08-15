@@ -52,10 +52,10 @@ Backend     Golang · PHP · Laravel · PhalconPHP · Tarantool · NodeJS
 
 | | |
 |---|---|
-| 🌐 **Сайт-визитка** | [cv-site.pages.dev](https://cv-site.pages.dev) — резюме на 3 языках (RU/EN/ES) |
+| 🌐 **Сайт-визитка** | [https://cv-site.pages.dev](https://cs-partizan-lero-site.corazonsergey.workers.dev) — резюме на 3 языках (RU/EN/ES) |
 | ✉️ **Email** | [corazonsergey@gmail.com](mailto:corazonsergey@gmail.com) |
 | 📱 **Телефон** | +7 920 822-67-59 |
-| 💬 **Telegram** | [@corazonsergey](https://t.me/corazonsergey) |
+| 💬 **Telegram** | [@partizan_lero](https://t.me/partizan_lero) |
 
 > 🟢 **Открыт к предложениям:** Senior Backend / Tech Lead. Отвечу в течение дня.
 
