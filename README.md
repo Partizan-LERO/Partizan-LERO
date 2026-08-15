@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://cv-site.pages.dev">🌐 Сайт-визитка</a> ·
+  <a href="https://cs-partizan-lero-site.corazonsergey.workers.dev">🌐 Сайт-визитка</a> ·
   <a href="mailto:corazonsergey@gmail.com">✉️ Email</a> ·
-  <a href="https://t.me/corazonsergey">💬 Telegram</a>
+  <a href="https://t.me/partizan_lero">💬 Telegram</a>
 </p>
 
 ---
